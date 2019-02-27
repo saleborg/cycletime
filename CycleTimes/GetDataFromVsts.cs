@@ -10,11 +10,6 @@ namespace ThroughputCalculation.GetTheData
 {
     class GetDataFromVsts
     {
-
-        private string TOKEN = "qlo2plbf6nkmdfhu5zvxrmbkhmb3uoht4updvqls4eu4tfol6eha";
-        
-
-
         public GetDataFromVsts()
         {
             IList<Deploy> Deploys;
